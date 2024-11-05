@@ -33,5 +33,11 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualisation
+![Sales Data used for analysis ](https://github.com/user-attachments/assets/c124fe6f-3137-4d33-ae64-b126a1864306)
 
+![Analysed Data_01](https://github.com/user-attachments/assets/09a25e3a-fa66-4cfe-8f81-b9f40943abb8)
+
+[pictorialchartthatrepresentthesalesdataanalysed.zip](https://github.com/user-attachments/files/17639132/pictorialchartthatrepresentthesalesdataanalysed.zip)
+
+[sqlquerydataanalysedforcustomerdata.zip](https://github.com/user-attachments/files/17639133/sqlquerydataanalysedforcustomerdata.zip)
 
